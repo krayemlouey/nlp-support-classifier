@@ -1,16 +1,16 @@
-# NLP Support Classifier 🤖
+# NLP Support Classifier 
 
 Un système de classification automatique de messages clients basé sur un modèle Transformer fine-tuné (DistilBERT), avec une interface web Streamlit et une API REST FastAPI.
 
 ## Fonctionnalités
 
 - **Classification en 6 catégories** :
-  - 🔁 Remboursement
-  - 🔧 Problème technique
-  - 😊 Positif
-  - 📦 Livraison
-  - 🛒 Achat / Commande
-  - ❓ Autre
+  -  Remboursement
+  -  Problème technique
+  -  Positif
+  -  Livraison
+  -  Achat / Commande
+  -  Autre
 - **Interface client** (Streamlit) pour soumettre des messages
 - **Espace RH** pour visualiser les messages classés
 - **API REST** (FastAPI) pour intégrer la prédiction dans d'autres systèmes
