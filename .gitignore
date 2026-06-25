@@ -1,0 +1,31 @@
+# Environnement virtuel
+venv/
+env/
+.env
+
+# Pycache et fichiers compilés Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Poids du modèle (trop lourds pour GitHub : 268 MB)
+model/model.safetensors
+model/training_args.bin
+model/checkpoint-*/
+
+# Messages enregistrés (données privées)
+messages.json
+inbox.txt
+
+# Logs d'entraînement
+logs/
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Fichiers de cache Hugging Face
+.cache/
