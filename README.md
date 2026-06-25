@@ -3,7 +3,7 @@
 Un système de classification automatique de messages clients basé sur un modèle Transformer fine-tuné (DistilBERT), avec une interface web Streamlit et une API REST FastAPI.
 
 ## Fonctionnalités
-C:\Users\hp\Pictures\Enregistrement 2026-06-25 080058.mp4
+
 
 - **Classification en 6 catégories** :
   -  Remboursement
