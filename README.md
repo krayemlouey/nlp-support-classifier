@@ -1,3 +1,17 @@
+
+
+
+
+
+
+<img width="1917" height="768" alt="Capture d&#39;écran 2026-06-25 081239" src="https://github.com/user-attachments/assets/eaf72f71-0640-49f7-9a6d-69428e172a19" />
+<img width="1919" height="804" alt="Capture d&#39;écran 2026-06-25 081228" src="https://github.com/user-attachments/assets/e8663967-94dd-43a8-860f-fc87b5882df0" />
+<img width="1904" height="758" alt="Capture d&#39;écran 2026-06-25 081216" src="https://github.com/user-attachments/assets/f214a01a-6b52-488b-b478-6d548c75bd7d" />
+<img width="1917" height="800" alt="Capture d&#39;écran 2026-06-25 081345" src="https://github.com/user-attachments/assets/669d2d3e-9103-41f2-9fa4-588925a72278" />
+<img width="1918" height="744" alt="Capture d&#39;écran 2026-06-25 081329" src="https://github.com/user-attachments/assets/95d7a9a0-a085-433a-ab8d-8000fc81bb7e" />
+
+
+
 # NLP Support Classifier 
 
 Un système de classification automatique de messages clients basé sur un modèle Transformer fine-tuné (DistilBERT), avec une interface web Streamlit et une API REST FastAPI.
